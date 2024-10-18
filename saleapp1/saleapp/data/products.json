@@ -1,0 +1,25 @@
+[{
+  "id": 1,
+  "name": "Vertu",
+  "description": "VIPPhone, 999GB, RAM: 100GB, Vertu16",
+  "price": 1000000000000000,
+  "image": "https://euluxury.vn/data/product/medium/Vertu_Signature_S_Yellow_Gold_Ceramic.jpg",
+  "category_id": 1
+},
+{
+  "id": 2,
+  "name": "iPadPro",
+  "description": "Apple , 256GB, RAM: 8GB, iPadPro12",
+  "price": 6000000,
+  "image": "https://bizweb.dktcdn.net/100/444/581/products/1-04169c36-62b8-47fe-b1a6-12df600de4a3-c39d821b-b4fd-42e9-9b4e-d5ef7bf01e26.png?v=1719042786403",
+  "category_id": 2
+},
+{
+  "id": 3,
+  "name": "Flycam",
+  "description": "FLYPRO , 100GB, RAM: 256GB, DIJMAVIC3PRO",
+  "price": 35000000,
+  "image": "https://linhkienstore.vn/plugins/responsive_filemanager/source/Kh%E1%BA%A3i/flycam-dat-nhat-the-gioi/Flycam-dat-nhat-freefly-alta-8-flycam-dat-nhat-the-gioi.jpg",
+  "category_id": 3
+}
+]
